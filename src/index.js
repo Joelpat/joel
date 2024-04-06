@@ -9,6 +9,7 @@ import Home from './pages/home';
 import Biofloc from './pages/biofloc';
 import Mycoculture from './pages/mycoculture';
 import Hydroponic from './pages/hydroponic';
+import NoPage from './pages/nopage';
 
 export default function Portofolio() {
   <BrowserRouter>
